@@ -1,3 +1,5 @@
+#SpeechToText Recognition
+#Requires Internet to work
 import speech_recognition as sr
 
 r=sr.Recognizer()
