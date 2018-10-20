@@ -1,2 +1,2 @@
 # Python
-My Smaller Codes of some projects.
+Few codes of mine.
