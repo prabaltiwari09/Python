@@ -1,2 +1,2 @@
 # Python
-Few codes of mine.
+Few small projects in python designed by me.
